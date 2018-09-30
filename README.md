@@ -37,4 +37,4 @@ Here are the images on which I map every 2 decimal numbers:
 |  7X 	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
 |  8X 	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
 |  9X 	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
-|  0X   |   	|   	|   	|   	|   	|   	|   	|   	|   	| ![Jar Jar](/img/00.PNG?raw=true) |
+|  0X   |   ![](/img/01.PNG?raw=true)	|   ![](/img/02.PNG?raw=true)	|   ![](/img/03.PNG?raw=true)	|   ![](/img/04.PNG?raw=true)	|   ![](/img/05.PNG?raw=true)	|   ![](/img/06.PNG?raw=true)	|   ![](/img/07.PNG?raw=true)	|  ![](/img/08.PNG?raw=true) 	|   ![](/img/09.PNG?raw=true)	| ![Jar Jar](/img/00.PNG?raw=true) |
