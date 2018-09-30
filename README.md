@@ -29,11 +29,11 @@ Here are the images on which I map every 2 decimal numbers:
 |---	  |---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|
 |  1X 	|   ![](/img/11.PNG?raw=true)	|   ![](/img/12.PNG?raw=true)	|  ![](/img/13.PNG?raw=true) 	|   ![](/img/14.PNG?raw=true)	|   ![](/img/15.PNG?raw=true)	| ![](/img/16.PNG?raw=true) 	|   ![](/img/17.PNG?raw=true)	|   ![](/img/18.PNG?raw=true)	|   ![](/img/19.PNG?raw=true)	| ![](/img/10.PNG?raw=true) |
 |  2X 	|   ![](/img/21.PNG?raw=true)	|   ![](/img/22.PNG?raw=true)	|  ![](/img/23.PNG?raw=true) 	|   ![](/img/24.PNG?raw=true)	|   ![](/img/25.PNG?raw=true)	| ![](/img/26.PNG?raw=true) 	|   ![](/img/27.PNG?raw=true)	|   ![](/img/28.PNG?raw=true)	|   ![](/img/29.PNG?raw=true)	| ![](/img/20.PNG?raw=true) |
-|  3X 	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
-|  4X 	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
-|  5X 	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
-|  6X	  |   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
-|  7X 	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
-|  8X 	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
-|  9X 	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|  3X 	|   ![](/img/31.PNG?raw=true)	|   ![](/img/32.PNG?raw=true)	|  ![](/img/33.PNG?raw=true) 	|   ![](/img/34.PNG?raw=true)	|   ![](/img/35.PNG?raw=true)	| ![](/img/36.PNG?raw=true) 	|   ![](/img/37.PNG?raw=true)	|   ![](/img/38.PNG?raw=true)	|   ![](/img/39.PNG?raw=true)	| ![](/img/30.PNG?raw=true) |
+|  4X 	|   ![](/img/41.PNG?raw=true)	|   ![](/img/42.PNG?raw=true)	|  ![](/img/43.PNG?raw=true) 	|   ![](/img/44.PNG?raw=true)	|   ![](/img/45.PNG?raw=true)	| ![](/img/46.PNG?raw=true) 	|   ![](/img/47.PNG?raw=true)	|   ![](/img/48.PNG?raw=true)	|   ![](/img/49.PNG?raw=true)	| ![](/img/40.PNG?raw=true) |
+|  5X 	|   ![](/img/51.PNG?raw=true)	|   ![](/img/52.PNG?raw=true)	|  ![](/img/53.PNG?raw=true) 	|   ![](/img/54.PNG?raw=true)	|   ![](/img/55.PNG?raw=true)	| ![](/img/56.PNG?raw=true) 	|   ![](/img/57.PNG?raw=true)	|   ![](/img/58.PNG?raw=true)	|   ![](/img/59.PNG?raw=true)	| ![](/img/50.PNG?raw=true) |
+|  6X 	|   ![](/img/61.PNG?raw=true)	|   ![](/img/62.PNG?raw=true)	|  ![](/img/63.PNG?raw=true) 	|   ![](/img/64.PNG?raw=true)	|   ![](/img/65.PNG?raw=true)	| ![](/img/66.PNG?raw=true) 	|   ![](/img/67.PNG?raw=true)	|   ![](/img/68.PNG?raw=true)	|   ![](/img/69.PNG?raw=true)	| ![](/img/60.PNG?raw=true) |
+|  7X 	|   ![](/img/71.PNG?raw=true)	|   ![](/img/72.PNG?raw=true)	|  ![](/img/73.PNG?raw=true) 	|   ![](/img/74.PNG?raw=true)	|   ![](/img/75.PNG?raw=true)	| ![](/img/76.PNG?raw=true) 	|   ![](/img/77.PNG?raw=true)	|   ![](/img/78.PNG?raw=true)	|   ![](/img/79.PNG?raw=true)	| ![](/img/70.PNG?raw=true) |
+|  8X 	|   ![](/img/81.PNG?raw=true)	|   ![](/img/82.PNG?raw=true)	|  ![](/img/83.PNG?raw=true) 	|   ![](/img/84.PNG?raw=true)	|   ![](/img/85.PNG?raw=true)	| ![](/img/86.PNG?raw=true) 	|   ![](/img/87.PNG?raw=true)	|   ![](/img/88.PNG?raw=true)	|   ![](/img/89.PNG?raw=true)	| ![](/img/80.PNG?raw=true) |
+|  9X 	|   ![](/img/91.PNG?raw=true)	|   ![](/img/92.PNG?raw=true)	|  ![](/img/93.PNG?raw=true) 	|   ![](/img/94.PNG?raw=true)	|   ![](/img/95.PNG?raw=true)	| ![](/img/96.PNG?raw=true) 	|   ![](/img/97.PNG?raw=true)	|   ![](/img/98.PNG?raw=true)	|   ![](/img/99.PNG?raw=true)	| ![](/img/90.PNG?raw=true) |
 |  0X   |   ![](/img/01.PNG?raw=true)	|   ![](/img/02.PNG?raw=true)	|   ![](/img/03.PNG?raw=true)	|   ![](/img/04.PNG?raw=true)	|   ![](/img/05.PNG?raw=true)	|   ![](/img/06.PNG?raw=true)	|   ![](/img/07.PNG?raw=true)	|  ![](/img/08.PNG?raw=true) 	|   ![](/img/09.PNG?raw=true)	| ![Jar Jar](/img/00.PNG?raw=true) |
