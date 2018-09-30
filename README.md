@@ -18,7 +18,8 @@ On this website, Francis claims that you can learn one system to memorize number
 That was perfect for me hence I started learning how to memorize numbers.
 
 # My number memorizing system
-I use the Major system adapted by Francis to make it more intuitive. More details here: 
+I use the Major system adapted by Francis to make it more intuitive. More details here:
+
 [Retenir des chiffres et des cartes à jouer ](https://www.artdelamemoire.org/retenir-des-chiffres-et-des-cartes-jouer/)
 
 [Complete details](https://docs.google.com/document/d/1QAW72GMid9hW5Os9eqFGvybI4QeiUKoVfiUR5uXqORY/edit?usp=sharing) 
