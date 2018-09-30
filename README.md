@@ -27,7 +27,7 @@ Here are the images on which I map every 2 decimal numbers:
 
 |   	  | 1 	|  2 	| 3  	| 4  	| 5  	| 6  	| 7  	| 8  	| 9  	| 0  	|
 |---	  |---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|
-|  1X 	|   ![](/img/11.PNG?raw=true)	|   ![](/img/12.PNG?raw=true)	|  ![](/img/13.PNG?raw=true) 	|   ![](/img/14.PNG?raw=true)	|   ![](/img/15.PNG?raw=true)	|   	|  ![](/img/16.PNG?raw=true) 	|   ![](/img/17.PNG?raw=true)	|   ![](/img/18.PNG?raw=true)	|   ![](/img/19.PNG?raw=true)	|
+|  1X 	|   ![](/img/11.PNG?raw=true)	|   ![](/img/12.PNG?raw=true)	|  ![](/img/13.PNG?raw=true) 	|   ![](/img/14.PNG?raw=true)	|   ![](/img/15.PNG?raw=true)	| ![](/img/16.PNG?raw=true) 	|   ![](/img/17.PNG?raw=true)	|   ![](/img/18.PNG?raw=true)	|   ![](/img/19.PNG?raw=true)	| ![](/img/10.PNG?raw=true) |
 |  2X	  |   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
 |  3X 	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
 |  4X 	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
