@@ -1,4 +1,3 @@
-!?raw=true
 # My Mnemonic System
 
 I don't have a good memory.
