@@ -42,13 +42,13 @@ Since sometimes I have to memorize an odd number of numbers I also need to have 
 
 |  #    | Person 	|  Action 	| Object 	
 |---	  |---	    |---	      |---	|
-|1      |  Yoda 	    |   	      |   	|
-|2      |  Pamela 	    |   	      |   	|
-|3      |  Mousquetaire 	    |   	      |   	|
-|4      |   4 prêtres	    |   	      |   	|
-|5      |   V pour Vendetta	    |   	      |   	|
-|6      |   Ron Jeremy	    |   	      |   	|
-|7      |   Albert	    |   	      |   	|
-|8      |   Bonhomme Michelin	    |   	      |   	|
-|9      |   Paillé	    |   	      |   	|
+|1      |  Yoda 	    |  virevolter dans tous les sens 	      |  lightsaber vert 	|
+|2      |  Pamela 	    |   	      |  bible (2 évangiles) 	|
+|3      |  3 mousquetaires 	    | se battre a l'épée  	      | casaque  	|
+|4      |   4 prêtres	    |   bénir	      |  habit d'évèque 	|
+|5      |   V pour Vendetta	    |   	      | masque anonymous  	|
+|6      |   Ron Jeremy	    |   	sex      |  dildo 	|
+|7      |   Albert	    |  lever des poids 	      |  altère 	|
+|8      |   Bonhomme Michelin	    |  manger voracement comme un zombi 	      |  pneu 	|
+|9      |   Paillé	    |   massage cardiaque	      |  camion pompier 	|
 |0      |   Donald Trump	    |   	      |   	|
