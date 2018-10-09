@@ -37,3 +37,18 @@ Here are the images on which I map every 2 decimal numbers:
 |  8X 	|   ![](/img/81.PNG?raw=true)	|   ![](/img/82.PNG?raw=true)	|  ![](/img/83.PNG?raw=true) 	|   ![](/img/84.PNG?raw=true)	|   ![](/img/85.PNG?raw=true)	| ![](/img/86.PNG?raw=true) 	|   ![](/img/87.PNG?raw=true)	|   ![](/img/88.PNG?raw=true)	|   ![](/img/89.PNG?raw=true)	| ![](/img/80.PNG?raw=true) |
 |  9X 	|   ![](/img/91.PNG?raw=true)	|   ![](/img/92.PNG?raw=true)	|  ![](/img/93.PNG?raw=true) 	|   ![](/img/94.PNG?raw=true)	|   ![](/img/95.PNG?raw=true)	| ![](/img/96.PNG?raw=true) 	|   ![](/img/97.PNG?raw=true)	|   ![](/img/98.PNG?raw=true)	|   ![](/img/99.PNG?raw=true)	| ![](/img/90.PNG?raw=true) |
 |  0X   |   ![](/img/01.PNG?raw=true)	|   ![](/img/02.PNG?raw=true)	|   ![](/img/03.PNG?raw=true)	|   ![](/img/04.PNG?raw=true)	|   ![](/img/05.PNG?raw=true)	|   ![](/img/06.PNG?raw=true)	|   ![](/img/07.PNG?raw=true)	|  ![](/img/08.PNG?raw=true) 	|   ![](/img/09.PNG?raw=true)	| ![Jar Jar](/img/00.PNG?raw=true) |
+
+Since sometimes I have to memorize an odd number of numbers I also need to have a system for 1 digit numbers. In this case I use a PAO system. Here it is :
+
+|  #    | Person 	|  Action 	| Object 	
+|---	  |---	    |---	      |---	|
+|1      |  Yoda 	    |   	      |   	|
+|2      |  Pamela 	    |   	      |   	|
+|3      |  Mousquetaire 	    |   	      |   	|
+|4      |   4 prêtres	    |   	      |   	|
+|5      |   V pour Vendetta	    |   	      |   	|
+|6      |   Ron Jeremy	    |   	      |   	|
+|7      |   Albert	    |   	      |   	|
+|8      |   Bonhomme Michelin	    |   	      |   	|
+|9      |   Paillé	    |   	      |   	|
+|0      |   Donald Trump	    |   	      |   	|
