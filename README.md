@@ -23,7 +23,7 @@ I use the Major system adapted by Francis to make it more intuitive. More detail
 
 [Complete details](https://docs.google.com/document/d/1QAW72GMid9hW5Os9eqFGvybI4QeiUKoVfiUR5uXqORY/edit?usp=sharing) 
 
-![Le code chiffre-son](https://https://images.squarespace-cdn.com/content/v1/577b0a48e4fcb599ceaf2072/1573323889910-DUCYGBGBCYCWOMVWY1TC/ke17ZwdGBToddI8pDm48kCVXsatr6b9BA1o1w6IYsAVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyV3Xm6LY8hrW0Guryihm1zaPZS26vwxj-vvYF96-wttE4eKVIilhrxJNsTh91c93c/code+chiffres-sons+synth%C3%A8se+2.png?format=750w)
+![Le code chiffre-son](/img/CodeChiffreSon.png?raw=true)
 
 Here are the images on which I map every 2 decimal numbers:
 
